@@ -1,4 +1,4 @@
-# vue-quiz
+# Quiz Game
 
 > A Vue.js project
 
